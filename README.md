@@ -3,8 +3,7 @@ Gaole Dai*, Cheng-Ching Tseng*, Qingpo Wuwu*, Rongyu Zhang*, Shaokang Wang*, Min
 
 <img src="inif.png"/>
 
-## Introduction
-**Implicit neural image field (INIF)** is a SOTA paradigm for microscopy image compression, characterized by its effectiveness and flexibility. It adopts a learned optimizer and leverages common codecs for faster compression, while integrating application-specific guidance for improved compression quality and trustworthiness.
+
 ## System Requirements
 
 ### Operating System
