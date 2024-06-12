@@ -1,5 +1,7 @@
-# INIF
-This repo is the offical codebase for the manuscript 'Implicit Neural Image Field for Biological Microscopy Image Compression'.
+# Implicit Neural Image Field for Biological Microscopy Image Compression [**[Arxiv]**](https://arxiv.org/pdf/2405.19012)
+Gaole Dai*, Cheng-Ching Tseng*, Qingpo Wuwu*, Rongyu Zhang*, Shaokang Wang*, Ming Lu, Tiejun Huang, Yu Zhou, Ali Ata Tuz, Matthias Gunzer, Jianxu Chen, Shanghang Zhang
+
+<img src="inif.png"/>
 
 ## Introduction
 **Implicit neural image field (INIF)** is a SOTA paradigm for microscopy image compression, characterized by its effectiveness and flexibility. It adopts a learned optimizer and leverages common codecs for faster compression, while integrating application-specific guidance for improved compression quality and trustworthiness.
