@@ -108,6 +108,17 @@ Gaole Dai*, Cheng-Ching Tseng*, Qingpo Wuwu*, Rongyu Zhang*, Shaokang Wang*, Min
 > [!TIP] 
 > We recommend to use the VSCode Docker [extension](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) to attach the container to the VSCode workspace and run the tutorial.
 
+## Citation
+Please cite our work if you find it useful.
+```bibtex
+@article{dai2024implicit,
+  title={Implicit Neural Image Field for Biological Microscopy Image Compression},
+  author={Dai, Gaole and Tseng, Cheng-Ching and Wuwu, Qingpo and Zhang, Rongyu and Wang, Shaokang and Lu, Ming and Huang, Tiejun and Zhou, Yu and Tuz, Ali Ata and Gunzer, Matthias and others},
+  journal={arXiv preprint arXiv:2405.19012},
+  year={2024}
+}
+```
+
 ## Quick Start :rocket:
 We provide a **google colab notebook** that demonstrates how to use INIF for the general image compression: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daviddaiiiii/INIF/blob/main/compression_tutorial.ipynb)
 
