@@ -1,5 +1,6 @@
-# Implicit Neural Image Field for Biological Microscopy Image Compression [**[Arxiv]**](https://arxiv.org/pdf/2405.19012)
-Gaole Dai*, Cheng-Ching Tseng*, Qingpo Wuwu*, Rongyu Zhang*, Shaokang Wang*, Ming Lu, Tiejun Huang, Yu Zhou, Ali Ata Tuz, Matthias Gunzer, Jianxu Chen, Shanghang Zhang
+# Implicit Neural Image Field for Biological Microscopy Image Compression
+![Python 3.10](https://img.shields.io/badge/Python-3.10-yellow)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/pdf/2405.19012)
 
 <img src="inif.png"/>
 
